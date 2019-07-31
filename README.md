@@ -1,2 +1,2 @@
 # Estudosjs
-Estudos de javscript
+Rep com exercicios e resoluções de problemas em javascript.
